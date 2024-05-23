@@ -17,7 +17,12 @@
 
 ## Iniciando o projeto
 
-* rode o seguinte comando
+* rode os seguintes comandos
+
+````shell
+npm install
+````
+e logo depois
 
 ````shell
 npm run dev
